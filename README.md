@@ -1,27 +1,9 @@
 ### Hi there , Wahyu here!👋
 
-📫 Currently I am a student at a polytechnic in Surabaya.
+📫 I am currently a student majoring in informatics    engineering at a polytechnic in Surabaya , Indonesia
 
-🔭 How to reach me : 
-    ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-
-
-email me, or Tweet me at [Twitter/wahyupujii](https://twitter.com/_wahyupujii)
+🔭 How to reach me : email me, or Tweet me at [Twitter/wahyupujii](https://twitter.com/_wahyupujii)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_wahyupujii?label=Follow&style=social)](https://twitter.com/_wahyupujii)
-
-<!--
-**wahyupujii/wahyupujii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
