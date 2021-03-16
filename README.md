@@ -4,6 +4,8 @@
 
 🔭 How to reach me : email me, or Tweet me at [Twitter/wahyupujii](https://twitter.com/_wahyupujii)
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/_wahyupujii?label=Follow&style=social)](https://twitter.com/_wahyupujii)
+
 <!--
 **wahyupujii/wahyupujii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
