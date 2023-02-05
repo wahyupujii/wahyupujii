@@ -2,7 +2,7 @@
 
 📫 I am currently a student majoring in informatics    engineering at a polytechnic in Surabaya , Indonesia
 
-🔭 How to reach me : email me, or Tweet me at [Twitter/wahyupujii](https://twitter.com/_wahyupujii)
+🔭 How to reach me : email me: wahyupr952@gmail.com
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_wahyupujii?label=Follow&style=social)](https://twitter.com/_wahyupujii)
  
