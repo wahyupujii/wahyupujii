@@ -1,7 +1,7 @@
 ### Hi there , Wahyu here!👋
 
-📫 Fresh Graduate Informatic Engineering who is interested in website product development
-🔭 How to reach me : 
+# 📫 Fresh Graduate Informatic Engineering who is interested in website product development
+# 🔭 How to reach me : 
  - email me: wahyupr952@gmail.com
  - linkedin: https://www.linkedin.com/in/wahyu-puji-ramadhan
  
